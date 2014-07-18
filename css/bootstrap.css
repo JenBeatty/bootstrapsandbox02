@@ -6720,6 +6720,18 @@ button.close {
   }
 }
 /* Custom Styles */
+.container {
+  padding: 2% 6%;
+}
+
 .error {
   color: #009999;
+}
+
+.bottom-space {
+  margin-bottom: 2%;
+}
+
+.more-bottom-space {
+  margin-bottom: 4%;
 }
